@@ -1,5 +1,7 @@
-![Screenshot 2024-05-24 211552](https://github.com/vishnu44444/covid-19-tracker-/assets/145116139/d631da2a-b084-4473-89a8-33e70311b999)
-![Screenshot 2024-05-24 211628](https://github.com/vishnu44444/covid-19-tracker-/assets/145116139/30819d6d-8ae0-4b2a-b68f-e61d5932890b)
+![Scree![Screenshot 2024-05-24 214612](https://github.com/vishnu44444/covid-19-tracker-/assets/145116139/4105cb78-99f6-4dc3-8cf2-f1c2d2a83f45)
+![Screenshot 2024-05-24 214644](https://github.com/vishnu44444/covid-19-tracker-/assets/145116139/4d3294ba-c984-4a80-9a94-dab0d97b6a1b)
+![Screenshot 2024-05-24 214754](https://github.com/vishnu44444/covid-19-tracker-/assets/145116139/c2c126bb-8ce9-4af3-b41f-b5c7883c656a)
+
 
 
 # covid-19-tracker
