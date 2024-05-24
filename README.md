@@ -1,10 +1,8 @@
-![Scree![Screenshot 2024-05-24 214612](https://github.com/vishnu44444/covid-19-tracker-/assets/145116139/4105cb78-99f6-4dc3-8cf2-f1c2d2a83f45)
+# covid-19-tracker
+![Screenshot 2024-05-24 214612](https://github.com/vishnu44444/covid-19-tracker-/assets/145116139/4105cb78-99f6-4dc3-8cf2-f1c2d2a83f45)
 ![Screenshot 2024-05-24 214644](https://github.com/vishnu44444/covid-19-tracker-/assets/145116139/4d3294ba-c984-4a80-9a94-dab0d97b6a1b)
 ![Screenshot 2024-05-24 214754](https://github.com/vishnu44444/covid-19-tracker-/assets/145116139/c2c126bb-8ce9-4af3-b41f-b5c7883c656a)
 
-
-
-# covid-19-tracker
  #A COVID-19 tracker website using HTML, CSS, Django, Python, and SQLite would typically involve the following components:
 
 Frontend (HTML & CSS):
