@@ -5,7 +5,7 @@
 
  #A COVID-19 tracker website using HTML, CSS, Django, Python, and SQLite would typically involve the following components:
 
-Frontend (HTML & CSS):
+Frontend {HTML & CSS}
 
 HTML: Used to structure the web pages, including the main dashboard, data tables, charts, and other interactive elements.
 CSS: Used to style the website, ensuring a responsive and visually appealing design. CSS frameworks like Bootstrap may be used for quicker development.
